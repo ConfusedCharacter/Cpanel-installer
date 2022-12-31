@@ -6,11 +6,11 @@ auto install and config cpanel on your CentOs7 Server
 # run:
 cloning repositories in server
 ```bash
-$ git clone https://github.com/ConfusedCharacter
+git clone https://github.com/ConfusedCharacter
 ```
 run Auto Script
 ```bash
-$ bash run.sh
+bash run.sh
 ```
 
 **Good Luck.**
