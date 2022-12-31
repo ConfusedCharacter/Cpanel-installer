@@ -15,7 +15,7 @@ git clone https://github.com/ConfusedCharacter/Cpanel-installer
 ```
 run Auto Script
 ```bash
-bash run.sh
+cd Cpanel-installer; bash run.sh
 ```
 
 **Good Luck.**
